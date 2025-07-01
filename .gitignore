@@ -1,7 +1,15 @@
 # macOS
 .DS_Store
+
 # Windows
 Thumbs.db
-# Python (I plan to include Python code)
+
+# Python
 __pycache__/
 *.pyc
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
